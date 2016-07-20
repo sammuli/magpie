@@ -127,8 +127,6 @@ Phoenix - 4.5.0-Hbase-1.0+, 4.5.0-Hbase-1.1+, 4.5.1-Hbase-1.0+,
           4.8.1-Hbase-1.2, 4.8.2-Hbase-1.0+, 4.8.2-Hbase-1.1,
           4.8.2-Hbase-1.2, 4.9.0-Hbase-1.1, 4.9.0-Hbase-1.2
 
-UDA/uda-plugin - 3.3.2-0
-
 Kafka - 2.11-0.9.0.0
 
 Zeppelin - 0.5.6-incubating, 0.6.0, 0.6.1, 0.6.2
@@ -149,6 +147,7 @@ beyond an experimental nature, please submit a support request and we
 can reconsider adding it back in.
 
    - Tachyon
+   - UDA/uda-plugin for Hadoop
    - HDFS Federation in Hadoop
    - IntelLustre option for a Hadoop Filesystem
    - MagpieNetworkFS option for a Hadoop Filesystem
